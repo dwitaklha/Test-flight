@@ -1,39 +1,81 @@
 {
-  "project_info": {
-    "project_number": "306070145424",
-    "project_id": "wombo-89412",
-    "storage_bucket": "wombo-89412.appspot.com"
-  },
-  "client": [
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:306070145424:android:02fb36a0b3b2e2bc568b15",
-        "android_client_info": {
-          "package_name": "com.myfaceaicreate.wombo"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "306070145424-ah1eqnnm278sq8vlen549bm3oode6ob8.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyB95Vx26-eXSpfTLmFCv3vSuKelRFkTlKo"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "306070145424-ah1eqnnm278sq8vlen549bm3oode6ob8.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
+  "config" : {
+    "adcolony" : {
+      "adcolony_app_id" : "",
+      "adcolony_interstitial_id" : "",
+      "adcolony_rewarded_id" : ""
+    },
+    "admob" : {
+      "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
+      "admob_rewarded_id" : "ca-app-pub-3940256099942544/5224354917",
+      "admob_unit_id" : ""
+    },
+    "appodeal" : {
+      "appodeal_app_key" : ""
+    },
+    "facebook" : {
+      "facebook_banner_id" : "IMG_16_9_APP_INSTALL#",
+      "facebook_interstitial_id" : "IMG_16_9_APP_INSTALL#",
+      "facebook_native_id" : "IMG_16_9_APP_INSTALL#",
+      "facebook_native_banner_id" : "IMG_16_9_APP_INSTALL#"
+    },
+    "mode_ads_banner" : "admob",
+    "mode_ads_interstitial" : "0",
+    "mode_ads_interstitial_mix" : "0",
+    "mode_ads_native_enabled" : false,
+    "mode_ads_rewarded" : "0",
+    "mode_button_ads_action" : "0",
+    "unity" : {
+      "unity_app_id" : "",
+      "unity_banner_id" : "",
+      "unity_interstitial_id" : "",
+      "unity_rewarded_id" : ""
+    },
+    "update" : {
+      "enable_update_closed" : true,
+      "update_action" : "",
+      "update_msg" : "update your app for grt all favorite now",
+      "update_state" : false,
+      "update_title" : "update your app"
+    },
+    "app" : {
+      "mode_off_version" : "0"
     }
-  ],
-  "configuration_version": "1"
+  },
+  "posts" : [
+    {
+      "id" : 0,
+      "imageURL" : "",
+      "state" : "free",
+      "title" : "",
+      "description" : "",
+      "written" : ""
+    },
+    {
+      "id" : 1,
+      "imageURL" : "",
+      "state" : "free",
+      "title" : "steps 1",
+      "description" : "",
+      "written" : ""
+    },
+    {
+      "id" : 2,
+      "imageURL" : "",
+      "state" : "free",
+      "title" : "steps 2",
+      "description" : "",
+      "written" : ""
+    },
+    {
+      "id" : 3,
+      "imageURL" : "",
+      "state" : "free",
+      "title" : "steps 3",
+      "description" : "",
+      "written" : ""
+    }
+  ]
 }
