@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306070145424",
+    "project_id": "wombo-89412",
+    "storage_bucket": "wombo-89412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306070145424:android:02fb36a0b3b2e2bc568b15",
+        "android_client_info": {
+          "package_name": "com.myfaceaicreate.wombo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306070145424-ah1eqnnm278sq8vlen549bm3oode6ob8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB95Vx26-eXSpfTLmFCv3vSuKelRFkTlKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306070145424-ah1eqnnm278sq8vlen549bm3oode6ob8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
