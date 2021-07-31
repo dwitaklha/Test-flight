@@ -23,10 +23,8 @@
     },
     "mode_ads_banner" : "admob",
     "mode_ads_interstitial" : "0",
-    "mode_ads_interstitial_mix" : "0",
     "mode_ads_native_enabled" : false,
     "mode_ads_rewarded" : "0",
-    "mode_button_ads_action" : "0",
     "unity" : {
       "unity_app_id" : "",
       "unity_banner_id" : "",
@@ -40,42 +38,35 @@
       "update_state" : false,
       "update_title" : "update your app"
     },
-    "app" : {
-      "mode_off_version" : "0"
+    "cpabuild" : {
+        "cpabuild_offer_state" : false,
+        "cpabuild_offer_user_id" : "",
+        "cpabuild_offer_api_key" : ""
+    },
+    "ogads" : {
+        "ogads_offer_state" : false,
+        "ogads_offer_user_id" : ""
+    },
+    "local_offer" : {
+        "local_offer_state" : false
     }
   },
-  "posts" : [
+  "apps" : [
     {
-      "id" : 0,
-      "imageURL" : "",
-      "state" : "free",
-      "title" : "",
-      "description" : "",
-      "written" : ""
+        "id":"53173336",
+        "appName":"Test Name 1",
+        "appIcon":"https:\/\/gyazo.com\/04d88109ce840a10d18f627b9f3ed70f.png",
+        "appUrl":"https://play.google.com/store/apps/details?id=com.facebook.katana",
+        "appState":true,
+        "appCountry":"all"
     },
     {
-      "id" : 1,
-      "imageURL" : "",
-      "state" : "free",
-      "title" : "steps 1",
-      "description" : "",
-      "written" : ""
-    },
-    {
-      "id" : 2,
-      "imageURL" : "",
-      "state" : "free",
-      "title" : "steps 2",
-      "description" : "",
-      "written" : ""
-    },
-    {
-      "id" : 3,
-      "imageURL" : "",
-      "state" : "free",
-      "title" : "steps 3",
-      "description" : "",
-      "written" : ""
+        "id":"53173386",
+        "appName":"Test Name 2",
+        "appIcon":"https:\/\/gyazo.com\/04d88109ce840a10d18f627b9f3ed70f.png",
+        "appUrl":"https:\/\/gyazo.com\/04d88109ce840a10d18f627b9f3ed70f.png",
+        "appState":true,
+        "appCountry":"ma,us"
     }
   ]
 }
